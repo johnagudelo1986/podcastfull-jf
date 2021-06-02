@@ -120,7 +120,7 @@ a{
     padding: 0;
     background-image: linear-gradient(225deg, #0000FF 0%, #0000A3 100%);
     height: 1203.5px;
-    width: 100%;
+    max-width: 100%;
     position: relative;
 }
 
@@ -184,13 +184,13 @@ a{
 }
 
 .columna img{
-    width: 100%;
+    max-width: 100%;
     height: 243px;
     margin: 0;
 }
 
 .contenedor-temas{
-    width: 100%;
+    max-width: 100%;
 }
 
 .titulo-temas{
@@ -230,7 +230,7 @@ a{
 
 .novedades{
     background-image: linear-gradient(225deg, #0000FF 0%, #0000A3 100%);
-    width: 100%;
+    max-width: 100%;
     height: 100%;
 }
 
